@@ -16,5 +16,6 @@ c.	Setting up the necessary tools (sonar scanner);
 9.	Creation of Maven Jenkins job;
 10.	Comparison of times when between maven single and multithreaded.
 There are some additional information regarding Maven projects structure. The Maven project three should look as shown below:
+![image](https://user-images.githubusercontent.com/50482856/123654068-03df6780-d82e-11eb-9705-6332d3bceab2.png)
 
 ### With this paper there are additional files that include the samples of Java project and Maven project to be used as helpers. 
